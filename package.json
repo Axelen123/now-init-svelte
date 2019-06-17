@@ -17,6 +17,7 @@
     "type": "git",
     "url": "https://github.com/Axelen123/now-init-svelte"
   },
+  "homepage": "https://github.com/Axelen123/now-init-svelte",
   "oclif": {
     "bin": "now-init-svelte"
   },

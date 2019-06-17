@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://github.com/Axelen123/now-init-svelte/blob/master/LICENSE">
-    <img src="https://img.shields.io/npm/l/now-init-svelte.svg" alt="license">
+    <img src="https://img.shields.io/npm/l/now-init-svelte.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com" alt="license">
   </a>
 </p>
 

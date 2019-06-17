@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://david-dm.org/Axelen123/now-init-svelte">
-    <img src="https://david-dm.org/Axelen123/now-init-svelte.svg" alt="dependencies>
+    <img src="https://david-dm.org/Axelen123/now-init-svelte.svg" alt="dependencies">
   </a>
 
   <a href="https://travis-ci.org/Axelen123/now-init-svelte">

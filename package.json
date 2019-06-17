@@ -1,7 +1,7 @@
 {
   "name": "now-init-svelte",
   "version": "1.0.0",
-  "description": "Initialize now.sh in svelte or sapper",
+  "description": "Initialize now.sh for svelte or sapper",
   "main": "lib/index.js",
   "scripts": {
     "start": "node .",

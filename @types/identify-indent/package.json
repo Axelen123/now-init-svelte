@@ -1,0 +1,11 @@
+{
+  "name": "@types/identify-indent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "types": "index"
+}

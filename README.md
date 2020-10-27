@@ -1,4 +1,6 @@
 # Now Init Svelte
+## Deprecated
+Please use `vercel-sapper` for sapper apps instead. It is not hard to deploy a regular svelte app to vercel. Just follow the instructions on the official templates.
 
 <p>
   <a href="https://www.npmjs.com/package/now-init-svelte">
